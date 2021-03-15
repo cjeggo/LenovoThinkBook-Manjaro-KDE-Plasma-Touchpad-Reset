@@ -1,8 +1,9 @@
 #! /bin/bash
 
-## Script for resetting touchpad after it freezes after sleep
+## Script for resetting touchpad after it freezes after sleep using xinput
 ## Install xorg-xinput first (pacman -S xorg-xinput)
 
+# Manual steps:
 # List devices
 # xinput list
 
